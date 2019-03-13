@@ -8,5 +8,8 @@ Basic CRUD for pHp &amp; MySQL
 ```A web server and a browsser.```
 
 #About Project
-```This project contains Create, Read, Update, and Delete```
+```This project contains Create, Read, Update, Delete and Check.```
+
+#It Contains
+```index.php, Delete.php, edit.php, Update.php```
 
