@@ -6,3 +6,7 @@ Basic CRUD for pHp &amp; MySQL
 
 #What you need?
 ```A web server and a browsser.```
+
+#About Project
+```This project contains Create, Read, Update, and Delete```
+
